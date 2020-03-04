@@ -1,4 +1,4 @@
-# myshop
+# shopping centre
 
 > A Vue.js project
 
